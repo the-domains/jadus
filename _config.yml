@@ -1,8 +1,7 @@
 name: jadus
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0
-title: nombril
+layout_spectrum: 0.8759170116391033
+typography_spectrum: 0.6314162279013544
 cta:
   domain: null
   bucket: null
@@ -22,8 +21,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0
-  lightness: 0.5625
-  saturation: 0.0625
+  brandStrength: 0.9752422806341201
+  lightness: 0.644932433962822
+  saturation: 0.04087721067480743
   rhythmicContrast: 0.8701154247391969
 purpose: []
